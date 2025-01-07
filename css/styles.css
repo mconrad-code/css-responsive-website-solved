@@ -345,13 +345,6 @@ footer .social-icons .icon {
   width: 100%;
 }
 
-.footer-contacts > div {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  width: 200px;
-}
-
 .footer-contacts h3 {
   color: white;
   font-size: 14px;
